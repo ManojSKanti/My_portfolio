@@ -28,7 +28,7 @@ body {
 
 .navbar {
     width: 86%;
-    margin: auto;
+    margin: 5px;
     padding: 15px 0;
     display: flex;
     align-items: center;
